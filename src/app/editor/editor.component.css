@@ -1,0 +1,7 @@
+.btns button {
+    margin: 5px;
+}
+
+.btns button:hover{
+    cursor: pointer;
+}
